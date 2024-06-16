@@ -4,4 +4,4 @@
  Thanks to CursoEmVídeo's Git and GitHub Course
  During a Live Class!
 
- This line was edited with GitHub's own text editor.
+ This line was edited with GitHub's text editor.
